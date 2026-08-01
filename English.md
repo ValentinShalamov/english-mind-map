@@ -19,6 +19,7 @@
 - it became my routine
 - I'm not scared of doctors
 - It's overcast - облачно
+- It became my routine
 
 #### <span style="font-size: 1.1em;  font-weight: bold;">rules</span>
 
