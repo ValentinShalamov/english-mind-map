@@ -38,6 +38,8 @@
 
 #### <span style="font-size: 1.1em;  font-weight: bold;">collocations</span>
 
+##### <span style="font-size: 1.1em;  font-weight: bold;">first</span>
+
 - Belarussian
 - Pharmacy
 - Dosage
@@ -50,8 +52,16 @@
 - take up English classes - взяться за занятия английским
 - get by -> I know the basics - enough to get by -> <b> я знаю базово, достаточно чтобы перебиться / быть понятым </b>
 
+##### <span style="font-size: 1.1em;  font-weight: bold;">second</span>
+- become compare to - становится лучше по сравнению с
+- anxiety disorder - тревожное расстройство
+- feel down - чувствовать себя подавленным
+- miserable - несчастный, подавленный
+- face a problem - столкнуться с проблемой
+
 #### <span style="font-size: 1.1em;  font-weight: bold;">rules</span>
 
 ##### <span style="font-size: 1.1em;  font-weight: bold;">Gerund after preposition </span>
 
 - I'm not interesting <b>in mastering (after in -> adj + ing)</b>
+
