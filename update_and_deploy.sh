@@ -1,4 +1,3 @@
-npx markmap-cli "English.md" -o index.html --no-open
-git add -A
+git add index.html update_and_deploy.sh
 git commit -m 'new version of mind map'
 git push
